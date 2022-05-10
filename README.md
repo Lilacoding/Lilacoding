@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lilacoding
 - 👀 I’m interested in so many topics but more specifically all things related to tech, coding, blockchain and security issues 
 - 🌱 I’m a certified web developer in Ruby on Rails with a penchant for the frontend side 👉 /HTML/CSS/JavaScript/React
-- 💞️ I’m looking for a junior frontend developer and meanwhile I'm perfecting my stack working on personal dev projects
+- 💞️ I’m looking for a junior frontend developer position and meanwhile I'm perfecting my stack working on personal dev projects
 - 📫 How to reach me by email 👉 lila.atmani01@gmail.com
 
 <!---
